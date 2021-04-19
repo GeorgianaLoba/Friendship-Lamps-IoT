@@ -53,7 +53,7 @@ Additional supplies needed: monitor, keyboard, mouse, hdmi adapter, hdmi cable, 
 2. Find the file lighted.py located on the rpi's desktop and run it.
 3. In addition, you can make the lamp script autorun at the start-up of the Raspberry Pi by adding the following line to the end of the /etc/rc.local file: `<python3 lighted.py>`
 
-# Information regarding the server
+## Information regarding the server
 
 The server used for keeping the lights in sync is a simple flask server dockerised and deployed on google cloud.
 
