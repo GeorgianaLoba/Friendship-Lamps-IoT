@@ -59,7 +59,7 @@ The server used for keeping the lights in sync is a simple flask server dockeris
 
 # Usage
 
-Once the lamps are both plugged in and running, you can play with it in the following way:
+Once the lamps are both plugged in and running, you can play with them in the following way:
 * the leftmost button on the schematics picture is used for switching on/off the lamp's light;
 * the inner button is used for switching between the lights, there are 6 possible light colours;
 
